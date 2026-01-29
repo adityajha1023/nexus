@@ -9,7 +9,6 @@ function App() {
 
   return (
     <div className='px-24 my-8'>
-      <h1 className='flex text-h5 font-medium items-center gap-2'>New Releases <ChevronRight size={30} /> </h1>
     </div>
   )
 }
